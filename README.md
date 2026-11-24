@@ -2,9 +2,7 @@
 
 # Hi 👋, I'm Harsana Neupane
 
-### 💻 Computer Science Student | Aspiring IT Professional | Communicator & Leader
-
-*"Learning today. Building tomorrow."*
+### 💻 Computer Science Student | Communicator & Leader
 
 </div>
 
